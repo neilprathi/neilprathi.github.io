@@ -1,7 +1,7 @@
 ---
-title: Major Reflection
+title: Minor Reflections
 layout: landing
-description: 'A reflection on my work as a photojournalist'
+description: 'Reflections on specific areas of growth'
 image: assets/images/pic04.jpg
 nav-menu: true
 ---
