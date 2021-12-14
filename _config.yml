@@ -3,13 +3,13 @@ title: Neil Rathi
 subtitle: Photojournalist
 email: neilrathi@gmail.com
 description: Photographer, journalist, photojournalist at Palo Alto High School
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Neil Rathi
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 4
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands

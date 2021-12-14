@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Resume
 image: assets/images/pic12.jpg
 nav-menu: true
